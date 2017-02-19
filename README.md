@@ -39,3 +39,5 @@ If you want to create a local HTML5 android app
 	```
 
 2. replace the boilerplate website in `src/main/assets/www/` with your own HTML, CSS and JavaScript files
+
+Refer http://stackoverflow.com/questions/14762034/push-to-github-without-password-using-ssh-key about ssh keys
